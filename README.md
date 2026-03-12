@@ -1,68 +1,94 @@
-<!-- BANNER PRINCIPAL -->
+<h1 align="center">Carlos Javier Sangama</h1>
 
 <p align="center">
-<img src="https://media.tenor.com/3M9j0ZLx0v4AAAAC/tahm-kench.gif" width="500">
-</p>
-
-<h1 align="center">🐸 CARLOS JAVIER SANGAMA</h1>
-
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=3000&pause=500&color=00FF9C&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER+IN+PROGRESS;BUILDING+CHAMU.GG;LEAGUE+OF+LEGENDS+PLAYER;DISCIPLINE+GYM+MINDSET;RETRO+CODING+ENERGY">
+Dev in Progress | Building Web Platforms
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=TUUSUARIO&color=00ff00&style=for-the-badge">
+<img src="https://komarev.com/ghpvc/?username=TUUSUARIO&style=flat-square&color=green"/>
 </p>
 
 ---
 
-<h2 align="center">🧠 ABOUT ME</h2>
+## About
+
+I am a developer currently focused on learning and building modern web applications.
+
+As a **Dev in Progress**, I actively work on personal projects to improve my skills in software development and web platform architecture.
+
+My objective is to gain strong experience in backend and full-stack development while building useful digital platforms.
+
+---
+
+## Projects
+
+### chamu.gg
+A social platform designed to connect players and allow users to create profiles, communicate and organize teams.
+
+Planned features:
+
+- Player profiles  
+- Team finder  
+- Community interaction  
+- Match analysis  
+
+---
+
+### Productivity Timer
+A simple web productivity tool designed to structure focused work sessions.
+
+Features:
+
+- Custom work sessions  
+- Rest intervals  
+- Visual timer interface  
+
+---
+
+### Fitness Training Web Page
+A structured web interface designed to organize weekly workout routines.
+
+Features:
+
+- Weekly training organization  
+- Exercise structure  
+- Simple user interface  
+
+---
+
+## Technologies
+
+Programming Languages
+
+- Python
+- Java
+- JavaScript
+
+Web Technologies
+
+- HTML
+- CSS
+
+Tools
+
+- Git
+- GitHub
+- VS Code
+
+---
+
+## GitHub Stats
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&color=00FF00&center=true&vCenter=true&width=800&lines=Curious+Mind;Future+Full+Stack+Developer;League+of+Legends+Player;Building+chamu.gg;Gym+Discipline">
+<img src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=github_dark"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=github-dark"/>
 
 </p>
 
 ---
 
-### 👨‍💻 Carlos Javier Sangama
+## Contact
 
-🟢 Location: **Lima, Peru**  
-🟢 Role: **Future Full Stack Developer**  
-🟢 Project: **chamu.gg**
-
----
-
-# ⚡ Developer Profile
-
-🧠 Problem Solving █████████░░ 90%
-
-💻 Web Development ████████░░░ 80%
-
-🚀 Backend Systems ███████░░░░ 70%
-
-🎮 Gaming Platforms █████████░ 85%
-
-💪 Discipline ██████████░ 100%
-
----
-
-# 🎮 Interests
-
-🐸 League of Legends  
-
-💪 Gym Training  
-
-💻 Programming  
-
-🚀 Building gaming communities
-
----
-
-# 🐸 Developer Philosophy
-
-> “Discipline beats motivation.”
-
-> “Build things that gamers actually want.”
-
+GitHub: https://github.com/TUUSUARIO
