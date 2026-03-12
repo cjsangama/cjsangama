@@ -1,24 +1,22 @@
-<!-- BANNER RETRO -->
+<!-- BANNER PRINCIPAL -->
 
 <p align="center">
-<img src="https://media.tenor.com/3M9j0ZLx0v4AAAAC/tahm-kench.gif" width="350">
+<img src="https://media.tenor.com/3M9j0ZLx0v4AAAAC/tahm-kench.gif" width="500">
 </p>
 
-<h1 align="center">🐸 Carlos Javier Sangama</h1>
+<h1 align="center">🐸 CARLOS JAVIER SANGAMA</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=18&duration=3000&pause=800&color=BB00FF&center=true&vCenter=true&width=600&lines=Future+Full+Stack+Developer;League+of+Legends+Player;Building+chamu.gg;Gym+Discipline;Retro+Coding+Energy">
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=25&duration=3000&pause=500&color=00FF9C&center=true&vCenter=true&width=900&lines=FULL+STACK+DEVELOPER+IN+PROGRESS;BUILDING+CHAMU.GG;LEAGUE+OF+LEGENDS+PLAYER;DISCIPLINE+GYM+MINDSET;RETRO+CODING+ENERGY">
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=TUUSUARIO&color=blueviolet&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=TUUSUARIO&color=00ff00&style=for-the-badge">
 </p>
 
 ---
 
-# 👾 About Me
+# 🧠 ABOUT ME
 
 ```javascript
 const Carlos = {
@@ -41,10 +39,7 @@ const Carlos = {
   "Programming"
  ],
 
- personality: [
-  "Curious",
-  "Disciplined",
-  "Carismatic"
- ]
+ mindset: "Discipline beats motivation",
 
+ current_project: "chamu.gg"
 }
