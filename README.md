@@ -16,30 +16,53 @@
 
 ---
 
-# 🧠 ABOUT ME
+<h2 align="center">🧠 ABOUT ME</h2>
 
-```javascript
-const Carlos = {
+<p align="center">
 
- name: "Carlos Javier Sangama",
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=600&color=00FF00&center=true&vCenter=true&width=800&lines=Curious+Mind;Future+Full+Stack+Developer;League+of+Legends+Player;Building+chamu.gg;Gym+Discipline">
 
- location: "Lima, Peru",
+</p>
 
- role: "Future Full Stack Developer",
+---
 
- focus: [
-  "Web Development",
-  "Gaming Platforms",
-  "Backend Systems"
- ],
+### 👨‍💻 Carlos Javier Sangama
 
- hobbies: [
-  "League of Legends",
-  "Gym Training",
-  "Programming"
- ],
+🟢 Location: **Lima, Peru**  
+🟢 Role: **Future Full Stack Developer**  
+🟢 Project: **chamu.gg**
 
- mindset: "Discipline beats motivation",
+---
 
- current_project: "chamu.gg"
-}
+# ⚡ Developer Profile
+
+🧠 Problem Solving █████████░░ 90%
+
+💻 Web Development ████████░░░ 80%
+
+🚀 Backend Systems ███████░░░░ 70%
+
+🎮 Gaming Platforms █████████░ 85%
+
+💪 Discipline ██████████░ 100%
+
+---
+
+# 🎮 Interests
+
+🐸 League of Legends  
+
+💪 Gym Training  
+
+💻 Programming  
+
+🚀 Building gaming communities
+
+---
+
+# 🐸 Developer Philosophy
+
+> “Discipline beats motivation.”
+
+> “Build things that gamers actually want.”
+
