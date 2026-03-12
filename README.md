@@ -1,7 +1,7 @@
 <h1 align="center">Carlos Sangama</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=2500&pause=700&color=00FF00&center=true&vCenter=true&width=800&lines=Dev+in+Progress;Building+Web+Platforms;Backend+and+Full+Stack+Development">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2500&pause=700&color=00FF00&center=true&vCenter=true&width=800&lines=Dev+in+Progress;Building+Web+Platforms;Backend+and+Full+Stack+Development">
 </p>
 
 <p align="center">
