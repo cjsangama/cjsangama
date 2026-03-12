@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=TUUSUARIO&style=for-the-badge&color=green"/>
+<img src="https://komarev.com/ghpvc/?username=CJSANGAMA&style=for-the-badge&color=green"/>
 </p>
 
 ---
@@ -73,9 +73,9 @@ Features
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TUUSUARIO&show_icons=true&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CJSANGAMA&show_icons=true&theme=github_dark"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TUUSUARIO&layout=compact&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CJSANGAMA&layout=compact&theme=github_dark"/>
 
 </p>
 
@@ -85,7 +85,7 @@ Features
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TUUSUARIO&theme=github-dark"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CJSANGAMA&theme=github-dark"/>
 
 </p>
 
@@ -95,7 +95,7 @@ Features
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TUUSUARIO&theme=github-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=CJSANGAMA&theme=github-dark"/>
 
 </p>
 
